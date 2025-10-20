@@ -19,7 +19,6 @@
     "modules": [
         {
             "name": "gnome-common",
-            "cleanup": "0",
             "sources": [
                 {
                     "type": "git",
